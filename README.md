@@ -41,6 +41,6 @@ I would definitely like to continue to use kanban or similar software that enhan
  
 ## Overall
 ### 1. Considering all the design methods, implementation practices, and software processes you've encountered---compare and contrast how the benefits of the different practices and how they might be useful together.
- 
+Starting with Agile and Scrum, compared to a Waterfall approach , Agile and Scrum focus on iterative periods of development and writing adaptive and flexible software. This poses many benefits as often the customer may change their mind about certain features midway through development. Kanban is a great tool that a development team can use to help follow these methodologies because it allows for easy task delegation. Kanban helps break down the process of making software into milestones or sprints by allowing you to categorise different issues into columns. This can be compared to a much more disorganized approach which would be to have one large list of everything that needs get done. This approach can be overwhelming, and can lead to the software being developed to be behind schedule since all tasks are due at one time. In terms of creating use case diagrams and architecture diagrams before starting development, it can help the development team visualize the programming they are creating. A different approach would be to start coding the software right away. This can cause problems down the road because shifting architecture midway through development can be a great slowdown. 
 
 
